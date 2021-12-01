@@ -1,5 +1,4 @@
-# binary_trees
-C language project
+# Binary Trees
 
 ```
                   .----------------------(006)-------.
