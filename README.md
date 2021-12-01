@@ -67,6 +67,7 @@ Resources
 * [Data structures](https://www.youtube.com/watch?v=H5JubkIy_p8): Binary Tree
 
 **AUTHORS:**
+
 [Christian Rojas](https://github.com/ChristianRojasOliver)
 
 [Johanne Lopez](https://github.com/Johanne101)
