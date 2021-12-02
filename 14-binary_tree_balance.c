@@ -18,8 +18,7 @@ size_t binary_tree_height(const binary_tree_t *tree)
 	{
 		return (l_height);
 	}
-	else
-		return (r_height);
+	return (r_height);
 }
 /**
  * binary_tree_balance - Func measures balance factor of BT
